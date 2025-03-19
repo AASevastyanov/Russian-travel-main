@@ -18,6 +18,6 @@
 
 - Полезные ссылки на туристические сайты.
 
-##Демо проекта в Pages:
+## Демо проекта в Pages:
 
-https://aasevastyanov.github.io/Russian-travel-main/
+[Демонстрация Pages](https://aasevastyanov.github.io/Russian-travel-main/)
